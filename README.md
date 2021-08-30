@@ -1,5 +1,5 @@
 @bro-adm -> cool name bro
-I am invested in functional packages for different coding languages
+Shtuzim
 
 <!---
 bro-adm/bro-adm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
