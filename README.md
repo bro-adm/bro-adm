@@ -1,5 +1,4 @@
-@bro-adm -> cool name bro
-Shtuzim
+@bro-adm
 
 <!---
 bro-adm/bro-adm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
